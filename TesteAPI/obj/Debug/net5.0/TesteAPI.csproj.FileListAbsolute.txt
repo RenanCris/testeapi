@@ -1,0 +1,66 @@
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.exe
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.deps.json
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.runtimeconfig.json
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.runtimeconfig.dev.json
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\ref\TesteAPI.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\TesteAPI.pdb
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.AssemblyReference.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfoInputs.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfo.cs
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.CoreCompileInputs.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\staticwebassets\TesteAPI.StaticWebAssets.Manifest.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\staticwebassets\TesteAPI.StaticWebAssets.xml
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\scopedcss\bundle\TesteAPI.styles.css
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.CopyComplete
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\ref\TesteAPI.dll
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.pdb
+C:\Users\Renan Cris\Documents\aplicacao docker\NET CORE\TesteDocker\TesteAPI\obj\Debug\net5.0\TesteAPI.genruntimeconfig.cache
+A:\TesteAPI\bin\Debug\net5.0\appsettings.Development.json
+A:\TesteAPI\bin\Debug\net5.0\appsettings.json
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.exe
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.deps.json
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.runtimeconfig.json
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.runtimeconfig.dev.json
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.dll
+A:\TesteAPI\bin\Debug\net5.0\ref\TesteAPI.dll
+A:\TesteAPI\bin\Debug\net5.0\TesteAPI.pdb
+A:\TesteAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+A:\TesteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+A:\TesteAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+A:\TesteAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+A:\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\TesteAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+A:\TesteAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+A:\TesteAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+A:\TesteAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+A:\TesteAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.AssemblyReference.cache
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.GeneratedMSBuildEditorConfig.editorconfig
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfoInputs.cache
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.AssemblyInfo.cs
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.CoreCompileInputs.cache
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.MvcApplicationPartsAssemblyInfo.cs
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.MvcApplicationPartsAssemblyInfo.cache
+A:\TesteAPI\obj\Debug\net5.0\staticwebassets\TesteAPI.StaticWebAssets.Manifest.cache
+A:\TesteAPI\obj\Debug\net5.0\staticwebassets\TesteAPI.StaticWebAssets.xml
+A:\TesteAPI\obj\Debug\net5.0\scopedcss\bundle\TesteAPI.styles.css
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.RazorTargetAssemblyInfo.cache
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.csproj.CopyComplete
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.dll
+A:\TesteAPI\obj\Debug\net5.0\ref\TesteAPI.dll
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.pdb
+A:\TesteAPI\obj\Debug\net5.0\TesteAPI.genruntimeconfig.cache

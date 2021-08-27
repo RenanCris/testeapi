@@ -1,0 +1,40 @@
+﻿version: '3'
+
+services:
+  proxy:
+    image: nginx-proxy:latest
+    build:
+      context: .
+    ports:
+      - "20000:80"
+    depends_on:
+      - apiteste1
+      - apiteste2
+      - apiteste3
+    networks:
+      - api-network
+  
+  apiteste1:
+    image: apiteste:latest
+    ports:
+      - "20001:80"
+    networks:
+      - api-network
+  
+  apiteste2:
+    image: apiteste:latest
+    ports:
+      - "20002:80"
+    networks:
+      - api-network
+  
+  apiteste3:
+    image: apiteste:latest
+    ports:
+      - "20003:80"
+    networks:
+      - api-network
+
+networks: 
+    api-network:
+      driver: bridge

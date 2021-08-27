@@ -1,0 +1,11 @@
+A:\out\TesteAPI.exe
+A:\out\appsettings.Development.json
+A:\out\appsettings.json
+A:\out\TesteAPI.dll
+A:\out\TesteAPI.deps.json
+A:\out\TesteAPI.runtimeconfig.json
+A:\out\TesteAPI.pdb
+A:\out\Microsoft.OpenApi.dll
+A:\out\Swashbuckle.AspNetCore.Swagger.dll
+A:\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\out\Swashbuckle.AspNetCore.SwaggerUI.dll
